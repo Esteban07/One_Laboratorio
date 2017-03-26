@@ -1,4 +1,4 @@
-package Laberinto;
+package Laberinto1;
 
  import becker.robots.*;
  import java.awt.Color;

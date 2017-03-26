@@ -1,4 +1,4 @@
-package Laberinto;
+package Laberinto1;
 
 
 public class main {
@@ -11,3 +11,4 @@ public class main {
         
     }
 }
+
